@@ -1,0 +1,2 @@
+# zscaler
+Zscaler shell scripts
