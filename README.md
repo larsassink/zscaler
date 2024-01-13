@@ -1,6 +1,3 @@
-*Instructions on [how to share the connection of a Zscaler installed in a virtual machine](#sharing-zscaler) can be found below.*
-
-
 # Killing Zscaler on macOS
 
 Zscaler can be annoying if you're trying to stop it. Despite having administrative rights, usually it asks for a password.
