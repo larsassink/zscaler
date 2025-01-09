@@ -1,3 +1,9 @@
+<a href="https://git.aio.sh/tuff/spotify-badge">
+<img src="https://spotify.aio.sh/api/now-playing.svg" width="540" height="52">
+</a>
+
+---
+
 # Killing Zscaler on macOS
 
 Zscaler can be annoying if you're trying to stop it. Despite having administrative rights, usually it asks for a password.
