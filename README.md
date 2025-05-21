@@ -2,6 +2,11 @@
 <img src="https://spotify.aio.sh/api/now-playing.svg" width="540" height="52">
 </a>
 
+<a href="https://github.com/larsassink">
+<img src="https://github-readme-stats.vercel.app/api?username=larsassink&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=3600">
+</a>
+
+
 ---
 
 # Killing Zscaler on macOS
